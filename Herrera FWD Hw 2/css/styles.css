@@ -1,0 +1,28 @@
+img {
+    height: 300px;
+}
+
+header {
+    background-image: url("https://images.pexels.com/photos/718739/pexels-photo-718739.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color : #eee;
+    padding: 20px;
+  }
+
+.introduction {
+    font-size: 22px;
+}
+
+.ingredients {
+    list-style: square;
+}
+
+.reference {
+    font-size: 12px;
+}
+
+h1,h2,h3,p {
+    font-family: Arial, Helvetica, sans-serif;
+}
